@@ -45,7 +45,7 @@ float: right;
     font-weight: 400;
 }
 .menu ul li a:hover{
-    color: aqua;
+    color: #098EFF;
     transition: cubic-bezier(1, 0, 0, 1);
 }
 .menu ul li:last-child a{
