@@ -45,7 +45,7 @@ float: right;
     font-weight: 400;
 }
 .menu ul li a:hover{
-    color: #098EFF;
+    color: aqua;
     transition: cubic-bezier(1, 0, 0, 1);
 }
 .menu ul li:last-child a{
@@ -179,7 +179,7 @@ font-weight: 700;
 margin: 20px 0;
 }
 .f_single p{
-font-size: 18px;
+font-size: 16px;
 font-weight: 400;
 margin: 0;
 }
@@ -193,5 +193,14 @@ footer {
 }
 footer p {
     font-size: 14px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+footer a:hover{
+    color: #0F2656;
 }
 /* footer end */
